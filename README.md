@@ -1,8 +1,10 @@
+### Live Demo
+https://react-calculator12.herokuapp.com/
+
 ## Snapshot
 ![](https://github.com/Frostjacks/react-calculator/blob/master/snapshot.PNG)
 
-### Live Demo
-https://react-calculator12.herokuapp.com/
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
