@@ -1,4 +1,4 @@
-## Sneak Peak
+## Snapshot
 ![](https://github.com/Frostjacks/react-calculator/blob/master/snapshot.PNG)
 
 ### Live Demo
